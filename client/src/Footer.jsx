@@ -12,7 +12,7 @@ const Footer = () => {
                 <div class="md:flex md:justify-between ">
                     <div class="mb-6 md:mb-0 ">
                         <a href="/" class="flex items-center">
-                            <img src="https://cdn-icons-png.flaticon.com/128/12435/12435328.png" class="h-20 w-15 me-3" alt="FlowBite Logo" />
+                            <img src="https://cdn-icons-png.flaticon.com/128/12435/12435328.png" class="h-20 w-15 me-3" alt="اقامتگاه" />
                         </a>
                         <p className='text-gray-800 mt-6'>ما را در شبکه های اجتماعی دنبال کنید</p>
                         <div className='flex flex-row mt-2'>
