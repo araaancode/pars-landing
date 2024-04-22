@@ -25,7 +25,7 @@ app.use(cookieParser());
 app.use('/uploads', express.static(__dirname+'/uploads'));
 app.use(cors({
   credentials: true,
-  origin: 'https://pars-landing-pv1eyxo67-arans-projects-9ba144d7.vercel.app',
+  origin: 'https://pars-landing-8kkzt68c0-arans-projects-9ba144d7.vercel.app/',
 }));
 
 async function uploadToS3(path, originalFilename, mimetype) {
